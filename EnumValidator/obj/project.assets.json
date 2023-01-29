@@ -4385,11 +4385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan Quintero\\source\\repos\\EnumValidator\\EnumValidator\\EnumValidator.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan Quintero\\Documents\\GitHub\\EnumAttributeValidatorWithAutoMapper\\EnumValidator\\EnumValidator.csproj",
       "projectName": "EnumValidator",
-      "projectPath": "C:\\Users\\Ivan Quintero\\source\\repos\\EnumValidator\\EnumValidator\\EnumValidator.csproj",
+      "projectPath": "C:\\Users\\Ivan Quintero\\Documents\\GitHub\\EnumAttributeValidatorWithAutoMapper\\EnumValidator\\EnumValidator.csproj",
       "packagesPath": "C:\\Users\\Ivan Quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan Quintero\\source\\repos\\EnumValidator\\EnumValidator\\obj\\",
+      "outputPath": "C:\\Users\\Ivan Quintero\\Documents\\GitHub\\EnumAttributeValidatorWithAutoMapper\\EnumValidator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

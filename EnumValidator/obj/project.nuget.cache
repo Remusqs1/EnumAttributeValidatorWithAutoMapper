@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aX3rsQ+kjh6pukskcEI3/NSHNykzxMu7nERsuKPfetnrkmth/bA1PRViT0/nDNNRaoNQltSZGAxNNFIuR4tRgw==",
+  "dgSpecHash": "nMCEUPUDgWbD1EjdGm+Vj/vzfo7i4Iqz12k7GAPc3Q8RSpcDX/LMn0zOM+fFnVBrjzwBcgL0wgntrFKnk6F7jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Quintero\\source\\repos\\EnumValidator\\EnumValidator\\EnumValidator.csproj",
+  "projectFilePath": "C:\\Users\\Ivan Quintero\\Documents\\GitHub\\EnumAttributeValidatorWithAutoMapper\\EnumValidator\\EnumValidator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan Quintero\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ivan Quintero\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

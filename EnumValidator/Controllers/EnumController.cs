@@ -7,10 +7,6 @@ namespace EnumValidator.Controllers
 {
     public class EnumController : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
 
         [HttpPost("AuxLang", Name = "EAuxLang_Post")]
         public IActionResult ValidateAuxLang([FromBody] AuxLangClassDTO input)
